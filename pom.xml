@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bankIq</groupId>
-	<artifactId>CICD-AWS</artifactId>
+	<artifactId>demo-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CICD-AWS</name>
 	<description>CICD-AWS</description>
