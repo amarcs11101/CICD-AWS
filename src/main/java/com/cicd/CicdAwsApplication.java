@@ -11,7 +11,7 @@ public class CicdAwsApplication {
 	
 	@GetMapping("/")
 	String home() {
-		System.out.println("Hii its demo !!!!");
+		System.out.println("Hii its demo !!!!!");
 		return "Spring is here!";
 	}
 
