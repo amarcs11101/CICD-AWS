@@ -9,7 +9,7 @@
 		<version>2.4.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bankIq</groupId>
+	<groupId>com.cicd</groupId>
 	<artifactId>demo-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CICD-AWS</name>
